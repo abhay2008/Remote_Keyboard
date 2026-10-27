@@ -82,4 +82,5 @@ python remote_keyboard.py
 ## 👨‍💻 Author
 
 **Abhay Kashyap**
+- B.Tech in Electronics & Communication Engineering (ECE), B.M.S. College of Engineering (BMSCE)
 - GitHub: [@abhay2008](https://github.com/abhay2008)
